@@ -1,0 +1,62 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2036 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.183 seconds
+Platform assembly: E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\UNITY5.6\Brick Breaker\Bricky_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.533397 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.959702 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 0.300213 ms (FindLiveObjects: 0.047213 ms CreateObjectMapping: 0.042594 ms MarkObjects: 0.195010 ms  DeleteObjects: 0.014369 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.401824 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 0.262750 ms (FindLiveObjects: 0.036436 ms CreateObjectMapping: 0.023606 ms MarkObjects: 0.185259 ms  DeleteObjects: 0.016935 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.448523 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.281738 ms (FindLiveObjects: 0.022580 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.180641 ms  DeleteObjects: 0.057476 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.943747 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.558345 ms (FindLiveObjects: 0.062095 ms CreateObjectMapping: 0.035409 ms MarkObjects: 0.453142 ms  DeleteObjects: 0.006671 ms)
+
+Duplicate music player self-destructing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.356663 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 423.
+Total: 0.236578 ms (FindLiveObjects: 0.033357 ms CreateObjectMapping: 0.021553 ms MarkObjects: 0.167811 ms  DeleteObjects: 0.013342 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b58 -> priority: 1 
+  Thread -> id: 27e8 -> priority: 1 
